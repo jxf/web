@@ -78,7 +78,7 @@ System setting
 用户信息修改
 用户密码修改
 系统偏好设置
-
+![alt next](http://b268.photo.store.qq.com/psb?/V10ymuAs4OUe9j/ck2hXIA9GDbxpR1.sAAk*Wy46xSOrfxlEIpRvvipQsI!/b/dFnGxp.iJgAA&bo=IAPRAQAAAAABANQ!类图)
  
 
  
