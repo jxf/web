@@ -28,7 +28,7 @@ Webqq使用数据库汇集每个人的发言，然后将数据库中的发言信
 发起聊天：发起语音聊天 发起视频聊天 发起文本聊天
 用户设置：个人信息设置 系统偏好设置
 文件传输：离线传输 在线传输
-![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/9Rli5AKx3MxIOgKSiWyvJio8jVU8C2KcH6Zk9Fs5jNo!/b/dE7J84dyAAAA&bo=IAPWAQAAAAABANM!“用例图”）
+![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/9Rli5AKx3MxIOgKSiWyvJio8jVU8C2KcH6Zk9Fs5jNo!/b/dE7J84dyAAAA&bo=IAPWAQAAAAABANM!“用例图”)
 
 
 4.2类图 
