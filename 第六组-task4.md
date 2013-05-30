@@ -86,19 +86,19 @@ System setting
 
 4.3时序图 
 顺序图也称时序图。顺序图的定义是：顺序图是显示对象之间交互的图，这些对象是按时间顺序排序的。特别地，顺序图中显示的是参与交互图中的对象及对象之间消息交互的顺序图
-![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/UWpAkyptFUj3vmq2JYhrJEqnI4SdBXi6YqUsfZsEl2E!/b/dLHD8IdlAAAA&bo=3QLbAQAAAAABACI!用户注册时
-                                用户注册时序图
+![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/UWpAkyptFUj3vmq2JYhrJEqnI4SdBXi6YqUsfZsEl2E!/b/dLHD8IdlAAAA&bo=3QLbAQAAAAABACI!用户注册时序图)
+用户注册时序图
 ![alt next](http://b227.photo.store.qq.com/psb?/V10ymuAs4OUe9j/*nz4o3B*uSDrKafWPubIglqJuzLzHewJeJw5q.ci9aQ!/b/dMWPU4eyJgAA&bo=vALiAQAAAAABAHo!用户登陆时序图)
-                                用户登录时序图
+用户登录时序图
 
 ![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/BeupxWqp37ZZAOScfsp6Gy2ENic0YGQuwtKZ9ADYoaI!/b/dJfs.YdjAAAA&bo=FAPiAQAAAAABANM!删除好友时序图) 
-                                删除好友时序图
+删除好友时序图
 
 ![alt next](http://b268.photo.store.qq.com/psb?/V10ymuAs4OUe9j/XqudC6Qw3xZ*KAunPmt1JGu7869*3kkK9QrcTvH8fDw!/b/dIJQyJ.ZJgAA&bo=IAP0AQAAAAABAPE!添加好友时序图)
-                               添加好友时序图
+添加好友时序图
 
 ![alt next](http://b268.photo.store.qq.com/psb?/V10ymuAs4OUe9j/npgHdHbYZEnpUxK5j0v3EhnYDxqzmYA5sk4wlM0edQw!/b/dIc3wp.cJgAA&bo=NwK9AQAAAAABAK4!文本聊天时序图)
- 	                       文本聊天时序图
+文本聊天时序图
 
 
 4.4活动图 
