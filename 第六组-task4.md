@@ -89,6 +89,7 @@ System setting
 ![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/UWpAkyptFUj3vmq2JYhrJEqnI4SdBXi6YqUsfZsEl2E!/b/dLHD8IdlAAAA&bo=3QLbAQAAAAABACI!用户注册时序图) 
   						   
   						   用户注册时序图
+![alt next](http://b227.photo.store.qq.com/psb?/V10ymuAs4OUe9j/*nz4o3B*uSDrKafWPubIglqJuzLzHewJeJw5q.ci9aQ!/b/dMWPU4eyJgAA&bo=vALiAQAAAAABAHo!用户登陆时序图)
 用户登录时序图
 
 
