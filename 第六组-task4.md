@@ -93,12 +93,13 @@ System setting
 
 
 
- 
+![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/BeupxWqp37ZZAOScfsp6Gy2ENic0YGQuwtKZ9ADYoaI!/b/dJfs.YdjAAAA&bo=FAPiAQAAAAABANM!删除好友时序图) 
 删除好友时序图
 
- 添加好友时序图
+![alt next](http://b268.photo.store.qq.com/psb?/V10ymuAs4OUe9j/XqudC6Qw3xZ*KAunPmt1JGu7869*3kkK9QrcTvH8fDw!/b/dIJQyJ.ZJgAA&bo=IAP0AQAAAAABAPE!添加好友时序图)
+添加好友时序图
 
-
+![alt next](http://b268.photo.store.qq.com/psb?/V10ymuAs4OUe9j/npgHdHbYZEnpUxK5j0v3EhnYDxqzmYA5sk4wlM0edQw!/b/dIc3wp.cJgAA&bo=NwK9AQAAAAABAK4!文本聊天时序图)
  
 	文本聊天时序图
 
@@ -108,14 +109,15 @@ System setting
 活动状态是原子的，不能被分解，没有内部转移，没有内部活动，动作状态的工作所占用的时间是可以忽略的。动作状态的目的是执行进入动作，然后转向另一个状态。 
 活动状态是可分解的，不是原子的，其工作的完成需要一定的时间。可以把动作状态看作活动状态的特例。 
 活动图对表示并发行为很有用，其应用非常广泛。一般活动图可以对系统的工作流程建模，即对系统的业务过程建模，也可以对具体的操作建模，用于描述计算过程的细节。在结构化分析和设计中，开发人员往往用流程图来描述一个算法。在UML中你没有流程图的概念，从某种意义上说，活动图的功能已包含了流程图。
+![alt next](http://b268.photo.store.qq.com/psb?/V10ymuAs4OUe9j/qvE.eK0KqZEDR9Yu1V0U59PQRSjec3aPRiJokqeSOAc!/b/dL3Dw5.ZJgAA&bo=RgL7AAAAAAABAJg!用户登陆活动图)
  用户登录活动图
-
+![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/qj8xBNKPDtBaz.5.MJzgnk1z5pdrTJG761mEORJRb5c!/b/dANO9YdtAAAA&bo=fgLfAAAAAAABAIQ!好友管理活动图)
  好友管理活动图     
-    
+![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/A9eM1lK7vdYWO4xe*VOeLFDLDXPZkD0245qXpFYvHHE!/b/dJjt.YdsAAAA&bo=EAM6AQAAAAABAA8!用户聊天活动图)    
 
  
                        用户聊天活动图
- 
+![alt next](http://b266.photo.store.qq.com/psb?/V10ymuAs4OUe9j/S8wEGtgVfGDUD.PeGjUmbphkNVnLSK2g35i86Ju40Pw!/b/dMmMj574LAAA&bo=AQL5AQAAAAABANw!具体文本聊天活动图) 
                         用户具体文本聊天活动图
 5 总结与展望
 通过这次设计使用UML对webqq进行建模，加深了对UML建模基础理论的理解，对web应用建模的基本过程有了更深的认识。这次设计还使用rational rose这个面向对象的设计软件，初步了解面向对象的工具，为以后的发展做了个良好的铺垫。在技术高速发展的时代，设计模式不断的更新，但设计思想不容易改变，所以加深对单一设计的技能训练，会达到触类旁通的效果。 
