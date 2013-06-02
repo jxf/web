@@ -6,6 +6,7 @@
      采用目前较为成熟的架构模式为MVC，这也是目前应用最为广泛的架构模式。控制器（Controler）控制器接受用户的输入并调用模型和视图去完成用户的需求 。视图（View）用户看到并与之交互的界面 模型（Model）企业数据和业务规则 
 
 ![alt next](http://b227.photo.store.qq.com/psb?/V10ymuAs4OUe9j/eu2KZjMr0XFIte3QIxu.dpLSl162NaTgu3aYi0JpJqg!/b/dGW2XIfQJwAA&bo=QgGYAAAAAAADAP4!)
+
 Webqq便是基于MVC设计模式设计的，原因如下：
 1，MVC设计模式较为成熟。
 2，MVC设计模式较为简单，能够很容易的将各个定义模块或组件相分离。
@@ -26,6 +27,7 @@ Webqq便是基于MVC设计模式设计的，原因如下：
 首先我们构造webQQ基本架构图，然后再一步步对其具体化，细化，和抽象化。
 
 ![alt next](http://b228.photo.store.qq.com/psb?/V10ymuAs4OUe9j/mwJ2.TWNLPL5wVx54IfZ3E7gBnPnL7rs7BtUj1iGNvA!/b/dMbs.YeVAgAA&bo=KwJSAQAAAAADAF8!)
+
 WebQQ界面：用于显示界面信息，是用户与系统的交互，用户可以通过该界面给好友发送消息，访问QQ空间，以及各种小应用。相当于MVC中的view。
 WebQQ代理服务器：接收用户请求，并将用户请求分类，发送至底层服务器。相当于MVC中的控制器。
 底层服务器：对业务进行计算，并将结果返回给控制器。相当于MVC中的模型。
@@ -48,6 +50,7 @@ WebQQ代理服务器：接收用户请求，并将用户请求分类，发送至
 具体化架构如下：
 
 ![alt next](http://b227.photo.store.qq.com/psb?/V10ymuAs4OUe9j/ANBkq5RjTISxGaUlbgYyM1EUA6L5EvDkG6ZMxvPsApc!/b/dMYtWIdlJwAA&bo=YwK.AQAAAAABAPk!)
+
 上述架构很好地体现了拆分和合并的思想，在于根据用户请求区别化处理，以获得更快的响应时间。首先用户发送请求，有接收器接收请求，然后将请求分类，中间的统一调度模块根据请求类别访问不同存储。从而实现高效的查找。其架构过程到此告一段落。我们有简单到复杂一步步构造系统的整体架构，遵循架构的基本思想，清晰的展示了架构构造过程。并且很容易验证架构的简单性和和高效性。
 
 
